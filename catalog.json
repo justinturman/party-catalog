@@ -4,8 +4,8 @@
     { "repo": "justinturman/party-game-go-fish", "commit": "3bd045db75da12ce9666ee6aa4581170043b1cff" },
     { "repo": "justinturman/party-game-trivia", "commit": "54e9644ce782302b570d60aaa6dda9a9988e09f2" },
     { "repo": "justinturman/party-game-two-truths-and-a-lie", "commit": "97b3bfa1e183e1a0ac2c87306a2e947500727841" },
-    { "repo": "justinturman/aprty-game-most-likely-to", "commit": "a2cbd2fd0f752adf70181f35a0130bf2ca3b5bdd"},
-    { "repo": "justinturman/aprty-game-password-taboo", "commit": "e9dc3f792a370f59d66e38d38e99fe9cad4eb444"},
-    { "repo": "justinturman/aprty-game-draw", "commit": "1c5f49a35d2d6481182c48faeda8456d26a10d79"}
+    { "repo": "justinturman/party-game-most-likely-to", "commit": "a2cbd2fd0f752adf70181f35a0130bf2ca3b5bdd"},
+    { "repo": "justinturman/party-game-password-taboo", "commit": "e9dc3f792a370f59d66e38d38e99fe9cad4eb444"},
+    { "repo": "justinturman/party-game-draw", "commit": "1c5f49a35d2d6481182c48faeda8456d26a10d79"}
   ]
 }
