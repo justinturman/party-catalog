@@ -1,0 +1,7 @@
+{
+  "games": [
+    { "repo": "justinturman/party-game-tic-tac-toe", "commit": "e0dcad11306f2f34c27209cfb4a36bfaadfb733d" },
+    { "repo": "justinturman/party-game-go-fish", "commit": "3bd045db75da12ce9666ee6aa4581170043b1cff" },
+    { "repo": "justinturman/party-game-trivia", "commit": "54e9644ce782302b570d60aaa6dda9a9988e09f2" }
+  ]
+}
