@@ -1,11 +1,12 @@
 {
   "games": [
-    { "repo": "justinturman/party-game-tic-tac-toe", "commit": "ff90771152d554855981d7219e554dabafb5e6b8" },
+    { "repo": "justinturman/party-game-tic-tac-toe", "commit": "e12c0bef4f5014f3291abd225d730d3827b6a1cd" },
     { "repo": "justinturman/party-game-go-fish", "commit": "d3f8f0d64bb9e21626cc219ed29dbea98ee5643a" },
     { "repo": "justinturman/party-game-trivia", "commit": "7a92369b2b22991966c8d8f830be930a9ae056c9" },
     { "repo": "justinturman/party-game-two-truths-and-a-lie", "commit": "0fc4b06ef59b8b26d11cb20306beaeefcf618afb" },
     { "repo": "justinturman/party-game-most-likely-to", "commit": "c9aef3d7f58f36e92f79eefa325988dbd54b0495"},
     { "repo": "justinturman/party-game-password-taboo", "commit": "76d2c0ac2b81ec9f055203584e3775c984316476"},
-    { "repo": "justinturman/party-game-draw", "commit": "628c10c42eb8dd94b1eba87cbf226ae5f4890c68"}
+    { "repo": "justinturman/party-game-draw", "commit": "628c10c42eb8dd94b1eba87cbf226ae5f4890c68"},
+    { "repo": "justinturman/party-game-find-it", "commit": "21016ac472952f3c7a34cd4b768a88563e9d296b" }
   ]
 }
