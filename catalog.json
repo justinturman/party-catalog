@@ -1,21 +1,24 @@
 {
   "games": [
-    { "repo": "justinturman/party-game-tic-tac-toe", "commit": "84420cfafed25524bc6d3c97a12fd11fc3f88d5f" },
-    { "repo": "justinturman/party-game-go-fish", "commit": "d3f8f0d64bb9e21626cc219ed29dbea98ee5643a" },
-    { "repo": "justinturman/party-game-trivia", "commit": "7a92369b2b22991966c8d8f830be930a9ae056c9" },
-    { "repo": "justinturman/party-game-two-truths-and-a-lie", "commit": "0fc4b06ef59b8b26d11cb20306beaeefcf618afb" },
-    { "repo": "justinturman/party-game-most-likely-to", "commit": "c9aef3d7f58f36e92f79eefa325988dbd54b0495"},
-    { "repo": "justinturman/party-game-password-taboo", "commit": "76d2c0ac2b81ec9f055203584e3775c984316476"},
-    { "repo": "justinturman/party-game-draw", "commit": "4bfd1592e4732b21ebafe94c7c486bf7a8880c20"},
-    { "repo": "justinturman/party-game-find-it", "commit": "8c46a1926082f273512711885e71102e03f977e3" },
     { "repo": "justinturman/party-game-checkers", "commit": "3405fe1e4daaa0d5eb6da03a412b408f7a08a98a" },
     { "repo": "justinturman/party-game-chess", "commit": "9d0ca35e9a0a245b1da173c9594fcd5287629932" },
+    { "repo": "justinturman/party-game-defuse", "commit": "75a85d11eec25b1962ce91076579eb61aa3a13b5" },
+    { "repo": "justinturman/party-game-draw", "commit": "5ea9eca683b0b5f4b5c8f87d68387d98ee2c5103"},
+    { "repo": "justinturman/party-game-emoji-hunt", "commit": "965d795332b3cd5061173d9a5841b8cadc060e20" },
     { "repo": "justinturman/party-game-family-fight", "commit": "2367d76ca96ded1d8651ae6de1537799e4de3aea" },
+    { "repo": "justinturman/party-game-fill-in-the-blank", "commit": "aa0dc0e3b25a926f64a986b1d3de5808a2a6ef30" },
     { "repo": "justinturman/party-game-four-in-a-row", "commit": "2db6c7824a807ec718faabc9bf68b9fe575c1374" },
     { "repo": "justinturman/party-game-geography-chase", "commit": "b295931ff16c1111117c41310722e52bccda71a7" },
+    { "repo": "justinturman/party-game-go-fish", "commit": "d3f8f0d64bb9e21626cc219ed29dbea98ee5643a" },
+    { "repo": "justinturman/party-game-most-likely-to", "commit": "64b20241825e980d4e53b912601a53da70d9883d"},
+    { "repo": "justinturman/party-game-name-that-tune", "commit": "" },
     { "repo": "justinturman/party-game-open-trivia", "commit": "24fdc5142b6bd971efa65d4ab5989b950df115b3" },
+    { "repo": "justinturman/party-game-password-taboo", "commit": "76d2c0ac2b81ec9f055203584e3775c984316476"},
     { "repo": "justinturman/party-game-psychic-test", "commit": "994c0fc3dc74c96eb2d70dc3ee00f2d1f9f13e62" },
-    { "repo": "justinturman/party-game-where-am-i", "commit": "1af2ce2db00d3606be9776bb446d49610d2a3305" },
-    { "repo": "justinturman/party-game-wizards-desk", "commit": "edd7c66590c13240996f3ad540db03d0a56b07aa" }
+    { "repo": "justinturman/party-game-tic-tac-toe", "commit": "3aeb03fa0ca6a45a18e9c62ce6aa688ef349840d" },
+    { "repo": "justinturman/party-game-trivia", "commit": "7a92369b2b22991966c8d8f830be930a9ae056c9" },
+    { "repo": "justinturman/party-game-two-truths-and-a-lie", "commit": "bf8542a42495b40a8f56c1e2664bd5586aaef364" },
+    { "repo": "justinturman/party-game-where-am-i", "commit": "fc9955a5e9e0972091abb1b760fe6efd0c204810" },
+    { "repo": "justinturman/party-game-wizards-desk", "commit": "53bb8900367fea8ca4dec6e5a7b51c3dcda379ff" }
   ]
 }
