@@ -10,6 +10,7 @@
     { "repo": "justinturman/party-game-four-in-a-row", "commit": "2db6c7824a807ec718faabc9bf68b9fe575c1374" },
     { "repo": "justinturman/party-game-geography-chase", "commit": "b295931ff16c1111117c41310722e52bccda71a7" },
     { "repo": "justinturman/party-game-go-fish", "commit": "d3f8f0d64bb9e21626cc219ed29dbea98ee5643a" },
+    { "repo": "justinturman/party-game-hoard-war", "commit": "b78c574e079fefc40dbb2a428db8fe624e13dfaa"},
     { "repo": "justinturman/party-game-most-likely-to", "commit": "64b20241825e980d4e53b912601a53da70d9883d"},
     { "repo": "justinturman/party-game-name-that-tune", "commit": "f2bcd7c44166e40a808b38f88cb0a074c057c5e8" },
     { "repo": "justinturman/party-game-open-trivia", "commit": "24fdc5142b6bd971efa65d4ab5989b950df115b3" },
